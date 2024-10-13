@@ -1,2 +1,0 @@
-# Urban-Waterbody-Segmentation-and-Open-source-Dataset-with-High-Resolution-Remote-Sensing
-This dataset supports the paper "Precise City-scale Urban WaterBody Semantic Segmentation and Open-source Sampleset Construction Based on Very High Resolution Remote Sensing: A Case Study in Chengdu." It includes high-resolution images and segmentation labels for urban waterbody analysis, enabling feature extraction and water resource monitoring.
