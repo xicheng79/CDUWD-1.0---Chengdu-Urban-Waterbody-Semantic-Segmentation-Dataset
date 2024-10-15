@@ -10,19 +10,19 @@ From these images, 77 sample points were selected, and 4000×4000 pixel sample i
 
 Based on the selected sample features, we constructed a new dataset, CDUWD, which is categorized into six classes:
 
-├──datasets code│\------------ │categories
+├──Subset of the dataset │\------------ │Type of water body
 
-├──CUDWD-1       │\------------ │Mainstream
+├──        CDUWD-1       │\------------ │main rivers
 
-├──CUDWD-2       │\------------ │Tributary
+├──        CDUWD-2       │\------------ │small rivers
 
-├──CUDWD-3       │\------------ │Lake
+├──        CDUWD-3       │\------------ │lakes
 
-├──CUDWD-4       │\------------ │Small Waterbody
+├──        CDUWD-4       │\------------ │small water
 
-├──CUDWD-5       │\------------ │Other Waterbody
+├──        CDUWD-5       │\------------ │other water
 
-├──CUDWD-6       │\------------ │Non-Waterbody
+├──        CDUWD-6       │\------------ │non-water
 
 ### 3. Obtaining the CUDWD Dataset
 
