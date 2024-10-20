@@ -20,7 +20,7 @@ Based on the selected sample features, we constructed a new dataset, CDUWD, whic
 
 ├──        CDUWD-4       │\------------ │small water
 
-├──        CDUWD-5       │\------------ │other water
+├──        CDUWD-5       │\------------ │others water
 
 ├──        CDUWD-6       │\------------ │non-water
 
