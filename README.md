@@ -45,12 +45,12 @@
 
 - **The dataset Water Body Dataset is shared via Baidu Netdisk:**
   
-    Link: https://pan.baidu.com/s/1tQ2seau1Ilqo2RSt5ZBLqw?pwd=cdut 
+     Link: https://pan.baidu.com/s/1tQ2seau1Ilqo2RSt5ZBLqw?pwd=cdut 
 
-    Access code: cdut
+     Access code: cdut
 - **The dataset Water Body Dataset is shared via Google Drive：**
   
-    Link: https://drive.google.com/drive/folders/1Cf0IBprLtH44uvaNPdYILF7VYOaScwPx?usp=sharing
+     Link: https://drive.google.com/drive/folders/1Cf0IBprLtH44uvaNPdYILF7VYOaScwPx?usp=sharing
 
    In the downloaded folder, there are two subfolders, named "512" and "1024". **512 folder:** Contains 3,800 samples with a resolution of 512×512 pixels, where the sample images ("images") and their corresponding labels ("labels") are stored in separate folders.**1024 folder:** Contains 950 samples with a resolution of 1024×1024 pixels. Similarly, the images and labels are stored separately in "images" and "labels" folders.Each "images" and "labels" folder is further divided into six subfolders, labeled as:CDUWD-1,CDUWD-2,CDUWD-3,CDUWD-4,CDUWD-5,CDUWD-6.Each subfolder contains the respective number of samples, annotated with different types of water bodies.
 
