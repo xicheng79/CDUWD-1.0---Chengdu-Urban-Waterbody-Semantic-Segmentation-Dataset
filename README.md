@@ -76,17 +76,21 @@ Once downloaded, the dataset is organized as follows for plug-and-play integrati
 ```text
 CDUWD_Dataset/
 ├── 512/                          # 3800 samples (512x512)
-│   ├── images/
-│   │   ├── CDUWD-1/
-│   │   ├── ...
-│   │   └── CDUWD-6/
-│   └── labels/                   # Corresponding masks
-│       ├── CDUWD-1/
-│       ├── ...
-│       └── CDUWD-6/
+│   ├── CDUWD-1/
+│   │   ├── images/
+│   │   └── labels/
+│   ├── ...
+│   └── CDUWD-6/
+│       ├── images/
+│       └── labels/
 └── 1024/                         # 950 samples (1024x1024)
-    ├── images/
-    └── labels/
+    ├── CDUWD-1/
+    │   ├── images/
+    │   └── labels/
+    ├── ...
+    └── CDUWD-6/
+        ├── images/
+        └── labels/
 ```
 
 ## 6. 📝 Citation
