@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "CDUWD 1.0: Chengdu Urban Waterbody Semantic Segmentation Dataset"
+authors:
+  - family-names: Cheng
+    given-names: Xi
+  - family-names: Zhu
+    given-names: Qian
+  - family-names: Song
+    given-names: Yujian
+  - family-names: Yang
+    given-names: Jieyu
+  - family-names: Wang
+    given-names: Tingting
+  - family-names: Zhao
+    given-names: Bin
+  - family-names: Shen
+    given-names: Zhanfeng
+doi: 10.3390/rs16203873
+url: "https://github.com/xicheng79/CDUWD-1.0---Chengdu-Urban-Waterbody-Semantic-Segmentation-Dataset"
+repository-code: "https://github.com/xicheng79/CDUWD-1.0---Chengdu-Urban-Waterbody-Semantic-Segmentation-Dataset"
+keywords:
+  - urban water body
+  - semantic segmentation
+  - remote sensing
+  - very high resolution
+  - deep learning
+  - dataset
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2024-10-01
+preferred-citation:
+  type: article
+  title: "Precise City-Scale Urban Water Body Semantic Segmentation and Open-Source Sampleset Construction Based on Very High-Resolution Remote Sensing: A Case Study in Chengdu"
+  authors:
+    - family-names: Cheng
+      given-names: Xi
+    - family-names: Zhu
+      given-names: Qian
+    - family-names: Song
+      given-names: Yujian
+    - family-names: Yang
+      given-names: Jieyu
+    - family-names: Wang
+      given-names: Tingting
+    - family-names: Zhao
+      given-names: Bin
+    - family-names: Shen
+      given-names: Zhanfeng
+  journal: "Remote Sensing"
+  volume: 16
+  issue: 20
+  year: 2024
+  doi: 10.3390/rs16203873
+  url: "https://doi.org/10.3390/rs16203873"
+  publisher:
+    name: MDPI
+  start: 3873
