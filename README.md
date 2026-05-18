@@ -62,6 +62,8 @@ To ensure robust model training, our manual annotations strictly adhered to the 
 3. **Inclusions:** Ponds, artificial reservoirs, water-filled ditches, lakes, rivers, visibly flooded rice fields, and wetlands.
 4. **Shadow Handling:** To maintain accurate morphological shapes, *shadows cast by buildings directly onto water surfaces* were also annotated as water bodies.
 
+> **⚠️ Quality Assurance:** We are continuously reviewing and refining the dataset to identify and correct potential annotation errors. This ongoing effort reflects our commitment to maintaining high-quality training samples for the research community.
+
 <a id="download-section"></a>
 ## 5. 📥 Download Links & Structure
 
